@@ -1,0 +1,1026 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:22:47] filterscripts = ""  (string)
+[10:22:47] 
+[10:22:47] Server Plugins
+[10:22:47] --------------
+[10:22:47]  Loading plugin: Plugin.dll
+[10:22:47]   Loaded.
+[10:22:47]  Loaded 1 plugins.
+
+[10:22:47] 
+[10:22:47] Filterscripts
+[10:22:47] ---------------
+[10:22:47]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:23:05] filterscripts = ""  (string)
+[10:23:05] 
+[10:23:05] Server Plugins
+[10:23:05] --------------
+[10:23:05]  Loading plugin: Plugin.dll
+[10:23:05]   Loaded.
+[10:23:05]  Loaded 1 plugins.
+
+[10:23:06] 
+[10:23:06] Filterscripts
+[10:23:06] ---------------
+[10:23:06]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:23:26] filterscripts = ""  (string)
+[10:23:26] 
+[10:23:26] Server Plugins
+[10:23:26] --------------
+[10:23:26]  Loading plugin: Plugin.dll
+[10:23:26]   Loaded.
+[10:23:26]  Loaded 1 plugins.
+
+[10:23:26] 
+[10:23:26] Filterscripts
+[10:23:26] ---------------
+[10:23:26]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:25:45] filterscripts = ""  (string)
+[10:25:45] 
+[10:25:45] Server Plugins
+[10:25:45] --------------
+[10:25:45]  Loading plugin: Plugin.dll
+[10:25:45]   Loaded.
+[10:25:45]  Loaded 1 plugins.
+
+[10:25:45] 
+[10:25:45] Filterscripts
+[10:25:45] ---------------
+[10:25:45]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:27:34] filterscripts = ""  (string)
+[10:27:34] 
+[10:27:34] Server Plugins
+[10:27:34] --------------
+[10:27:34]  Loading plugin: Plugin.dll
+[10:27:34]   Loaded.
+[10:27:34]  Loaded 1 plugins.
+
+[10:27:34] 
+[10:27:34] Filterscripts
+[10:27:34] ---------------
+[10:27:34]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:32:27] filterscripts = ""  (string)
+[10:32:27] 
+[10:32:27] Server Plugins
+[10:32:27] --------------
+[10:32:27]  Loading plugin: Plugin.dll
+[10:32:27]   Loaded.
+[10:32:27]  Loaded 1 plugins.
+
+[10:32:27] 
+[10:32:27] Filterscripts
+[10:32:27] ---------------
+[10:32:27]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:34:18] filterscripts = ""  (string)
+[10:34:18] 
+[10:34:18] Server Plugins
+[10:34:18] --------------
+[10:34:18]  Loading plugin: Plugin.dll
+[10:34:18]   Loaded.
+[10:34:18]  Loaded 1 plugins.
+
+[10:34:18] 
+[10:34:18] Filterscripts
+[10:34:18] ---------------
+[10:34:18]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:34:24] filterscripts = ""  (string)
+[10:34:24] 
+[10:34:24] Server Plugins
+[10:34:24] --------------
+[10:34:24]  Loading plugin: Plugin.dll
+[10:34:24]   Loaded.
+[10:34:24]  Loaded 1 plugins.
+
+[10:34:24] 
+[10:34:24] Filterscripts
+[10:34:24] ---------------
+[10:34:24]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:36:35] filterscripts = ""  (string)
+[10:36:35] 
+[10:36:35] Server Plugins
+[10:36:35] --------------
+[10:36:35]  Loading plugin: Plugin.dll
+[10:36:35]   Loaded.
+[10:36:35]  Loaded 1 plugins.
+
+[10:36:35] 
+[10:36:35] Filterscripts
+[10:36:35] ---------------
+[10:36:35]   Loaded 0 filterscripts.
+
+[10:36:35] Online
+[10:36:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:38:10] filterscripts = ""  (string)
+[10:38:10] 
+[10:38:10] Server Plugins
+[10:38:10] --------------
+[10:38:10]  Loading plugin: Plugin.dll
+[10:38:10]   Loaded.
+[10:38:10]  Loaded 1 plugins.
+
+[10:38:11] 
+[10:38:11] Filterscripts
+[10:38:11] ---------------
+[10:38:11]   Loaded 0 filterscripts.
+
+[10:38:11] Online
+[10:38:11] Number of vehicle models: 0
+[10:38:33] [connection] 127.0.0.1:55317 requests connection cookie.
+[10:38:34] Received packet id 24
+[10:38:34] [connection] incoming connection: 127.0.0.1:55317 id: 0
+[10:38:34] Received packet id 30
+[10:38:34] Received packet id 41
+[10:38:34] [join] Krieger07 has joined the server (0:127.0.0.1)
+[10:38:36] Received packet id 205
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 203
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:36] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 205
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 203
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:37] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 205
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 203
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:38] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 205
+[10:38:39] Received packet id 203
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:39] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 205
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 203
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+[10:38:40] Received packet id 207
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:40:04] filterscripts = ""  (string)
+[10:40:04] 
+[10:40:04] Server Plugins
+[10:40:04] --------------
+[10:40:04]  Loading plugin: Plugin.dll
+[10:40:04]   Loaded.
+[10:40:04]  Loaded 1 plugins.
+
+[10:40:04] 
+[10:40:04] Filterscripts
+[10:40:04] ---------------
+[10:40:04]   Loaded 0 filterscripts.
+
+[10:40:04] Online
+[10:40:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:01:15] filterscripts = ""  (string)
+[11:01:15] 
+[11:01:15] Server Plugins
+[11:01:15] --------------
+[11:01:15]  Loading plugin: Plugin.dll
+[11:01:15]   Loaded.
+[11:01:15]  Loaded 1 plugins.
+
+[11:01:16] 
+[11:01:16] Filterscripts
+[11:01:16] ---------------
+[11:01:16]   Loaded 0 filterscripts.
+
+[11:01:16] Online
+[11:01:16] Number of vehicle models: 0
+[11:01:28] [connection] 127.0.0.1:59353 requests connection cookie.
+[11:01:29] Received packet id 24
+[11:01:29] [connection] incoming connection: 127.0.0.1:59353 id: 0
+[11:01:29] Received packet id 30
+[11:01:29] Received packet id 41
+[11:01:29] [join] Krieger07 has joined the server (0:127.0.0.1)
+[11:01:30] Received packet id 205
+[11:01:30] weapon 0
+[11:01:30] Received packet id 207
+[11:01:30] Received packet id 203
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:31] Received packet id 205
+[11:01:31] Received packet id 203
+[11:01:31] weapon 0
+[11:01:31] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:32] Received packet id 205
+[11:01:32] Received packet id 203
+[11:01:32] weapon 0
+[11:01:32] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] weapon 0
+[11:01:33] Received packet id 207
+[11:01:33] Received packet id 205
+[11:01:33] Received packet id 203
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:34] weapon 0
+[11:01:34] Received packet id 207
+[11:01:35] Received packet id 205
+[11:01:35] Received packet id 203
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:35] weapon 0
+[11:01:35] Received packet id 207
+[11:01:36] Received packet id 205
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] Received packet id 203
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:36] weapon 0
+[11:01:36] Received packet id 207
+[11:01:37] Received packet id 205
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] Received packet id 203
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:37] weapon 0
+[11:01:37] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] Received packet id 205
+[11:01:38] Received packet id 203
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] Received packet id 203
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] weapon 0
+[11:01:38] Received packet id 207
+[11:01:38] Received packet id 203
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] Received packet id 205
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] Received packet id 203
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:39] weapon 0
+[11:01:39] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] Received packet id 205
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] Received packet id 203
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:40] weapon 0
+[11:01:40] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] Received packet id 205
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] Received packet id 203
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] Received packet id 203
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:41] weapon 0
+[11:01:41] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] Received packet id 205
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] Received packet id 203
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:42] weapon 0
+[11:01:42] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] Received packet id 203
+[11:01:43] Received packet id 205
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] Received packet id 203
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:43] weapon 0
+[11:01:43] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] Received packet id 205
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] Received packet id 203
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:44] Received packet id 203
+[11:01:44] weapon 0
+[11:01:44] Received packet id 207
+[11:01:45] weapon 0
+[11:01:45] Received packet id 207
+[11:01:45] weapon 0
+[11:01:45] Received packet id 207
+[11:01:45] weapon 0
+[11:01:45] Received packet id 207
+[11:01:45] weapon 0
+[11:01:45] Received packet id 207
+[11:01:45] Received packet id 205
+[11:01:45] weapon 0
+[11:01:45] Received packet id 207
+[11:01:45] weapon 0
+[11:01:45] Received packet id 207
+[11:01:45] weapon 0
+[11:01:45] Received packet id 207
+[11:01:45] weapon 0
+[11:01:45] Received packet id 207
+[11:01:45] weapon 0
+[11:01:45] Received packet id 207
+[11:01:45] weapon 0
+[11:01:45] Received packet id 207
+[11:01:45] weapon 0
+[11:01:45] Received packet id 207
+[11:01:47] Received packet id 32
+[11:01:47] [part] Krieger07 has left the server (0:1)
