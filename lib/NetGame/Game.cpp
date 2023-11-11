@@ -1,4 +1,5 @@
 #include "Game.h"
+#include <sdk\plugin.h>
 
 namespace NetGame
 {

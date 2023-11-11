@@ -1,6 +1,6 @@
 #ifndef _GAME_H_
 #define _GAME_H_
-#include "CNetGame.h"
+#include "Structs.h"
 
 namespace NetGame
 {
