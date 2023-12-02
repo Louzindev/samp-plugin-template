@@ -6,3 +6,5 @@ public OnGameModeInit()
 {
     printf("Online");
 }
+
+public OnPlayerConnect(playerid)

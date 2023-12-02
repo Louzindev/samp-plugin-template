@@ -9,7 +9,7 @@ list(APPEND CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake")
 
 set(LIB "${CMAKE_SOURCE_DIR}/lib")
 set(SDK "${CMAKE_SOURCE_DIR}/lib/sdk")
-set(NETGAME "${CMAKE_SOURCE_DIR}/lib/NetGame")
+set(SAMP "${CMAKE_SOURCE_DIR}/lib/SAMP")
 set(RAKNET "${CMAKE_SOURCE_DIR}/lib/RakNet")
 set(SAMPSVR_PLUGIN_DIR "${CMAKE_SOURCE_DIR}/sampsvr/plugins")
 

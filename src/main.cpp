@@ -2,8 +2,7 @@
 #include "commom.h"
 #include "Native.h"
 
-NetGame::CNetGame* netGame = NULL;
-RakNet::RakServer* rakServer = NULL;
+SAMP::CSAMP* Game = new SAMP::CSAMP();
 
 PLUGIN_EXPORT unsigned int PLUGIN_CALL Supports() {
 	return SUPPORTS_VERSION | SUPPORTS_AMX_NATIVES | SUPPORTS_PROCESS_TICK;
@@ -15,14 +14,7 @@ PLUGIN_EXPORT bool PLUGIN_CALL Load(void** ppData) {
 }
 
 PLUGIN_EXPORT int PLUGIN_CALL AmxLoad(AMX* amx) {
-	static bool loaded = false;
-	if(!loaded)
-	{
-		netGame = NetGame::Game::GetNetGame();
-		rakServer = RakNet::RakServer::GetRakServer(false);
-		loaded = true;
-	}
-
+	Game->AmxLoad(RakNet::RakServer::GetRakServer(false));
 	return amx_Register(amx, Native::native_list, -1);
 }
 

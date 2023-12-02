@@ -1,35 +1,15 @@
 #include "RakServer.h"
 #include "../sdk/plugincommon.h"
 #include "../Memory.h"
-#include "../hook.h"
+#include "../Hooking.h"
 #include "../subhook/subhook.h"
+#include "RakOffset.h"
 #include <sdk\plugin.h>
 
 namespace RakNet
 {
 	DWORD FUNC_GetPacketId = NULL;
 	subhook::Hook GetPacketId_hook;
-
-	BYTE RakServer::GetPacketId(Packet* p)
-	{
-		subhook::ScopedHookRemove remove(&GetPacketId_hook);
-
-		const BYTE packetId = (reinterpret_cast<getPacketId_t>(FUNC_GetPacketId))(p);
-
-		if (packetId == 0xFF)
-		{
-			return 0xFF;
-		}
-
-		if (!GetPacketId_hook.GetTrampoline())
-		{
-			return packetId;
-		}
-		else
-		{
-			return (reinterpret_cast<getPacketId_t>(GetPacketId_hook.GetTrampoline()))(p);
-		}
-	}
 
 	RakServer::RakServer()
 	{
@@ -53,12 +33,12 @@ namespace RakNet
 	}
 
 	// Returns an RakServer instance.
-	RakServer* RakServer::GetRakServer(bool passive)
+	RakServer * RakServer::GetRakServer(bool passive)
 	{
 		// Initialize RakServer instance
 		RakServer* rakServer = new RakServer(); // new RakServer instance
 
-		
+
 		void* pRakServer = NULL;
 		int (*pfn_GetRakServer)(void) = (int(*)(void))ppPluginData[PLUGIN_DATA_RAKSERVER];
 		pRakServer = (void*)pfn_GetRakServer();
@@ -84,7 +64,7 @@ namespace RakNet
 		rakServer->pnf_Start = reinterpret_cast<RakNet_Start_t>(pRakServer_VTBL[RAKNET_START_OFFSET]);
 		rakServer->pnf_UnregisterAsRemoteProcedureCall = reinterpret_cast<RakNet_UnregisterAsRemoteProcedureCall_t>(pRakServer_VTBL[RAKNET_UNREGISTER_RPC_OFFSET]);
 
-		if(!passive)
+		if (!passive)
 		{
 			// Hook original RakServer->Receive
 			Unlock((void*)&pRakServer_VTBL[RAKNET_RECEIVE_OFFSET], 4); pRakServer_VTBL[RAKNET_RECEIVE_OFFSET] = reinterpret_cast<int>(HookReceive);
@@ -94,7 +74,7 @@ namespace RakNet
 #ifdef _WIN32
 		FUNC_GetPacketId = FindPattern("\x8B\x44\x24\x04\x85\xC0\x75\x03\x0C\xFF\xC3", "xxxxxxx???x");
 #else
-		rakServer->FUNC_GetPacketId = FindPattern("\x55\xB8\x00\x00\x00\x00\x89\xE5\x8B\x55\x00\x85\xD2", "xx????xxxx?xx");
+		FUNC_GetPacketId = FindPattern("\x55\xB8\x00\x00\x00\x00\x89\xE5\x8B\x55\x00\x85\xD2", "xx????xxxx?xx");
 #endif
 
 		if (FUNC_GetPacketId != NULL)
@@ -110,9 +90,31 @@ namespace RakNet
 		return rakServer;
 	}
 
-	Packet* RakServer::Receive(void* ppRakServer)
+	Packet* RakServer::Receive(void* ppRakServer) const
 	{
 		return pnf_Receive(ppRakServer);
+	}
+
+
+	BYTE RakServer::GetPacketId(Packet* p)
+	{
+		subhook::ScopedHookRemove remove(&GetPacketId_hook);
+
+		const BYTE packetId = (reinterpret_cast<getPacketId_t>(FUNC_GetPacketId))(p);
+
+		if (packetId == 0xFF)
+		{
+			return 0xFF;
+		}
+
+		if (!GetPacketId_hook.GetTrampoline())
+		{
+			return packetId;
+		}
+		else
+		{
+			return (reinterpret_cast<getPacketId_t>(GetPacketId_hook.GetTrampoline()))(p);
+		}
 	}
 
 }

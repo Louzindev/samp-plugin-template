@@ -5,8 +5,8 @@
 
 RakNet::Packet* __thiscall RakNet::RakServer::HookReceive(void* ppRakServer)
 {
-	RakNet::Packet* packet = rakServer->Receive(ppRakServer);
-	BYTE packetID = RakNet::RakServer::GetPacketId(packet);
+	Packet* packet = Game->GetRakServer()->Receive(ppRakServer);
+	BYTE packetID = GetPacketId(packet);
 	if (packetID != 255)
 	{
 		if (packetID == 207)

@@ -1,17 +1,5 @@
-#ifndef _HOOK_H_
-#define _HOOK_H_
-
-#ifdef _WIN32
-#define STDCALL __stdcall
-#define THISCALL __thiscall
-#define FASTCALL __fastcall
-#else
-#define STDCALL
-#define THISCALL
-#define FASTCALL
-#define CDECL
-#endif
-
+#ifndef _RAKNET_OFFSETS_H_
+#define _RAKNET_OFFSETS_H_
 #ifdef _WIN32
 #define RAKNET_START_OFFSET							1
 #define RAKNET_SEND_OFFSET							7
@@ -45,5 +33,4 @@
 #define RAKNET_CLEAR_BAN_OFFSET						63
 #define RAKNET_SET_TIMEOUT_OFFSET					65
 #endif
-
 #endif

@@ -2,8 +2,7 @@
 #define _COMMOM_H_
 
 #include <RakNet\RakServer.h>
-#include <NetGame\Game.h>
+#include <SAMP\CSAMP.h>
 
-extern NetGame::CNetGame* netGame;
-extern RakNet::RakServer* rakServer;
+extern SAMP::CSAMP* Game;
 #endif

@@ -1,7 +1,7 @@
 #ifndef _RAKSERVER_H_
 #define _RAKSERVER_H_
 #include "BitStream.h"
-#include "../hook.h"
+#include "../Hooking.h"
 #include "../types.h"
 #include "../subhook\subhook.h"
 #include "Packet.h"
@@ -35,7 +35,7 @@ namespace RakNet
 	class RakServer
 	{
 	public:
-		Packet* Receive(void* ppRakServer);
+		Packet* Receive(void* ppRakServer) const;
 
 	public:
 		static RakServer* GetRakServer(bool passive);
